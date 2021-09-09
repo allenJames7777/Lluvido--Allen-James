@@ -77,6 +77,7 @@ img{
 }
 
 #content .info p{
+    word-wrap: break-word;
     background-color:#CC313D;
     background-size: 100px;
     font-size: 25px;
