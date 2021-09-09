@@ -6,7 +6,7 @@
 
 section{
     position:relative;
-    width: 100;
+    width: 300;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
