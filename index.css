@@ -120,9 +120,10 @@ a{
     background:gray;
  }
 
- html, body{
-    min-height: 100vh;
-    max-width: 400px;
-  
-    margin: 0 auto;
+ html{
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
  }
