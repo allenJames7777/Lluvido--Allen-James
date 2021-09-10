@@ -26,14 +26,12 @@ body{
 .form{
     width: 30%;
     margin: 1% auto;
-  background-color:#78C3FB;
+    background: rgba(96, 102, 104, 0.6);
+    color: #fff;
   border-radius: 40px;
-  border: 5px solid black;
+  border: 5px solid rgb(10, 52, 90);
  
-
-  
-  
-  
+ 
  }   
 
  form{
