@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+   background-image:url(orange.jpg);
+  font-family: Rubik, Arial; 
+  max-width:100%;
+    background-size:cover;
+    background-position:center;
+    
+}
+
+.form{
+    text-align: center;
+  line-height: 30px;
+  height: 50%;
+  overflow: auto;
+  position: relative;
+  top: 120px;
+  
+  
+}
+.form{
+    width: 30%;
+  margin: 1% auto;
+  height: 70vh;
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 40px;
+  border: 5px solid black;
+  
+ }   
+
+ form{
+     font-size: 20px;
+ }
+
+ #send{
+    width: 20em;  height: 2em;
+    border: 3px solid black;
+    border-radius: 40px;
+ }
+
+ #send:hover{
+     background-color:gray;
+     
+ }
+ 
+
