@@ -5,10 +5,10 @@
 }
 
 body{
-   background-image:url(check.jpg);
+   background-image:url(orange.jpg);
   font-family: Rubik, Arial; 
   max-width:100%;
-    background-size:cover;
+    background-size:auto;
     
     
 }
