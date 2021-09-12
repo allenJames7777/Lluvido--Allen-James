@@ -22,7 +22,7 @@ header h1{
     color:#ffe8d6;
     -webkit-text-stroke: 6px black;
     position:relative;
-    left:300px;
+    left:440px;
 }   
     
 .main{
@@ -63,6 +63,8 @@ button{
     font-family: 'Special Elite', cursive;
 background-color:royalblue;
 font-size:50px;
+position:relative;
+left: 170px;
 }
 button{
     border-radius: 12px;
