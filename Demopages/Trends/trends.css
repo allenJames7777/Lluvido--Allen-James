@@ -31,3 +31,14 @@ div{
 p{
     font-size:20px;
 }
+
+footer {
+    position: relative;
+  top: 0%;
+  width: 90%;
+  padding: 30px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 30px;
+  }
