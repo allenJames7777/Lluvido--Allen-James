@@ -55,12 +55,13 @@ body{
 
  .awards{
    position:relative;
-   left: 43.8%;
+   left: 40%;
    font-size: 25px;
 
   }  
   li{
     font-family: 'Courgette', cursive;
+   
 
   }
  
