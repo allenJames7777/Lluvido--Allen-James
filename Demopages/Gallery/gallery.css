@@ -74,4 +74,6 @@ footer {
   justify-content: space-between;
   align-items: center;
   font-size: 30px;
+  position:relative;
+  bottom:150px;
   }
