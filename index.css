@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  
 }
 
 .link {
@@ -67,7 +68,7 @@ img {
   position: relative;
   bottom: 100px;
   padding: 0px;
-  border: 5px solid #cc313d;
+  border: 3px solid #cc313d;
 }
 
 #content .info p {
@@ -82,7 +83,7 @@ img {
 }
 
 #content .info h2 {
-  font-size: 25px;
+  font-size: 35px;
   font-family: "Anton", sans-serif;
   font-weight: 800;
   letter-spacing: 2px;
@@ -90,15 +91,15 @@ img {
   margin-bottom: 30px;
 }
 
-#content .info h2 span {
-  font-size: 40px;
+#who {
+ 
   color: #3c1053ff;
   letter-spacing: 5px;
   -webkit-text-stroke: 2px black;
 }
 
 #content .info-btn {
-  color: #3c1053ff;
+  color: black;
   position: relative;
   bottom: 60px;
   text-decoration: none;
