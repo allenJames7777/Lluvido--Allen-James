@@ -5,10 +5,12 @@
     text-decoration: none;
     list-style:none;
     scroll-behavior: smooth;
+    
 }
+
 /* for navigation bar */
 .max-width{
-    max-width: 1300px;
+    max-width: 1100px;
     padding: 0 80px;
     margin: auto;
 }
@@ -321,23 +323,25 @@ table, th, td {
 }
 .contact h1{
 
-text-align: center;
-font-size: 80px;
+position: relative;
+font-size: 60px;
     font-family: 'Abril Fatface', cursive;
+    left:150px;
+    
 }
 .phone{
     position: relative;
-    left:300px;
+    left:200px;
 }
 
 .phone i{
     position:relative;
     right:50px;
-    top:60px;
+    top:50px;
 }
 .Telephone{
     position: relative;
-    left:300px;
+    left:200px;
 }
 .Telephone i{
     position:relative;
@@ -346,7 +350,7 @@ font-size: 80px;
 }
 .email{
     position: relative;
-    left:300px;
+    left:200px;
 }
 
 .email i{
@@ -361,7 +365,7 @@ font-size: 80px;
 
 .form{
     position:relative;
-    left:600px;
+    left:550px;
     bottom:300px;
 }
 .form{
@@ -371,3 +375,21 @@ font-size: 80px;
   position: relative;
   left:125px
 }
+
+#for-js{
+    position: relative;
+    left:450px;
+    bottom:435px;
+}
+form{
+    font-size: 25px;
+    position: relative;
+    left:500px;
+    bottom:420px;
+    
+}
+#submit{
+    position:relative;
+    left:120px;
+}
+
